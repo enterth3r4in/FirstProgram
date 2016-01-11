@@ -1,1 +1,9 @@
 C:\Users\as600\Documents\GitHub\CSharpInClass1-11-16\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+C:\Users\as600\Documents\GitHub\CSharpInClass1-11-16\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+C:\Users\as600\Documents\GitHub\CSharpInClass1-11-16\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+C:\Users\as600\Documents\GitHub\CSharpInClass1-11-16\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csprojResolveAssemblyReference.cache
+C:\Users\as600\Documents\GitHub\CSharpInClass1-11-16\FirstProgram\FirstProgram\obj\Debug\FirstProgram.Properties.Resources.resources
+C:\Users\as600\Documents\GitHub\CSharpInClass1-11-16\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.GenerateResource.Cache
+C:\Users\as600\Documents\GitHub\CSharpInClass1-11-16\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+C:\Users\as600\Documents\GitHub\CSharpInClass1-11-16\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
+C:\Users\as600\Documents\GitHub\CSharpInClass1-11-16\FirstProgram\FirstProgram\obj\Debug\FirstProgram.Form1.resources
