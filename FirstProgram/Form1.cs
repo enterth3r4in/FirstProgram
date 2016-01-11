@@ -10,6 +10,11 @@ using System.Windows.Forms;
 
 namespace FirstProgram
 {
+    /** 
+     * Author: Cody Miller
+     * Description: First Program
+     * Purpose: To 'amaze' people.
+     **/
     public partial class Form1 : Form
     {
         public Form1()
